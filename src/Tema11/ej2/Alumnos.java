@@ -1,4 +1,4 @@
-package ej2;
+package Tema11.ej2;
 
 public class Alumnos {
       private String nombre;

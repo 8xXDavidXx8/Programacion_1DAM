@@ -1,4 +1,4 @@
-package ej2;
+package Tema11.ej2;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -19,7 +19,7 @@ public class Main {
         //Array de objetos Alumnos
         ArrayList<Alumnos> alumnoDam= new ArrayList<Alumnos>();
         //Instacio el fichero donde se guardan los datos
-        File fichero = new File(".\\src\\ejemplos\\prueba.txt");
+        File fichero = new File(".\\src\\Tema11.ejemplos\\prueba.txt");
         Scanner sc= null;
         try {
             sc=new Scanner(fichero);

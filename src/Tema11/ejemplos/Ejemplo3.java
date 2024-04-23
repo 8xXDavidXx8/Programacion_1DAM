@@ -1,4 +1,4 @@
-package ejemplos;
+package Tema11.ejemplos;
 import java.io.*;
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class Ejemplo3 {
      */
     public static void main(String[] args) throws IOException {
         Scanner sc =new Scanner(System.in);
-        File fichero1 = new File(".\\src\\ejemplos\\prueba.txt");
+        File fichero1 = new File(".\\src\\Tema11.ejemplos\\prueba.txt");
         //Compruebo que el directorio existe
         if (!fichero1.exists()){
             System.out.println("El archivo no exite!!!");
@@ -22,7 +22,7 @@ public class Ejemplo3 {
                 System.out.println("Nombre del nuevo fichero: ");
                 String nombreFichero = sc.nextLine();
                 //Crear un nuevo fichero con un nombre introducido por el usuario
-                File ficheroUser = new File(".\\src\\ejemplos\\" + nombreFichero);
+                File ficheroUser = new File(".\\src\\Tema11.ejemplos\\" + nombreFichero);
                 try {
                     ficheroUser.createNewFile();
                     ficheroUser.getAbsoluteFile();
@@ -36,8 +36,8 @@ public class Ejemplo3 {
 
         }else{
             try {
-                BufferedReader br = new BufferedReader(new FileReader(".\\src\\ejemplos\\prueba.txt"));
-                BufferedWriter bw = new BufferedWriter(new FileWriter(".\\src\\ejemplos\\prueba.txt"));
+                BufferedReader br = new BufferedReader(new FileReader(".\\src\\Tema11.ejemplos\\prueba.txt"));
+                BufferedWriter bw = new BufferedWriter(new FileWriter(".\\src\\Tema11.ejemplos\\prueba.txt"));
                 //Escribimos en el fichero
                 bw.write("Linea 1");
                 System.out.println("Escriba su linea 1");
