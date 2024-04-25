@@ -1,18 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="753d5a41-fe84-437d-82c2-6d37a254e2ed" name="Changes" comment="" />
+    <list default="true" id="753d5a41-fe84-437d-82c2-6d37a254e2ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;8xXDavidXx8&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/8xXDavidXx8/Programacion_1DAM.git&quot;,
+    &quot;accountId&quot;: &quot;499b5455-071a-4bcf-a826-b7b30c8ee266&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/PracticaEvaluable/tema10/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2fUjNorKuyLgPblgmdwZCX6mPNq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,14 +49,61 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.PracticaEvaluable.Practica_Evaluable_Tema_11_Merchan_Muñoz_David.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/alumno/IdeaProjects/Tema11/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alumno\IdeaProjects\Programacion_1DAM\src\PracticaEvaluable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PracticaEvaluable.Practica_Evaluable_Tema_11_Merchan_Muñoz_David.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practica_Evaluable_Tema_11_Merchan_Muñoz_David.Main" />
+      <module name="Tema11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practica_Evaluable_Tema_11_Merchan_Muñoz_David.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticaEvaluable.Practica_Evaluable_Tema_11_Merchan_Muñoz_David.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticaEvaluable.Practica_Evaluable_Tema_11_Merchan_Muñoz_David.Main" />
+      <module name="Tema11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticaEvaluable.Practica_Evaluable_Tema_11_Merchan_Muñoz_David.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PracticaEvaluable.Practica_Evaluable_Tema_11_Merchan_Muñoz_David.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -46,6 +121,12 @@
       <option name="presentableId" value="Default" />
       <updated>1713862516572</updated>
       <workItem from="1713862517613" duration="1000" />
+      <workItem from="1713863204593" duration="4052000" />
+      <workItem from="1713947610725" duration="1550000" />
+      <workItem from="1713957204505" duration="147000" />
+      <workItem from="1713957410583" duration="141000" />
+      <workItem from="1714038581922" duration="176000" />
+      <workItem from="1714038772380" duration="3613000" />
     </task>
     <servers />
   </component>
